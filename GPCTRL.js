@@ -127,9 +127,9 @@ class GPCTRL {
     }
 }
 
-//const gpctrl = new GPCTRL(0);
+export {GPCTRL};
 
-//export {gpctrl};
+// const gpctrl = new GPCTRL(0);
 
 // <参考>
 // Gamepad Tester
